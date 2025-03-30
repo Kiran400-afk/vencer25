@@ -215,7 +215,7 @@ body::before {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('../images/vencer_background.jpg') no-repeat center center;
+    background: url('images/vencer_background.jpg') no-repeat center center;
     background-size: cover;
     position: relative;
     flex-direction: column;
